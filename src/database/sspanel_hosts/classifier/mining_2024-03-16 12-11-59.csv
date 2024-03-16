@@ -1,0 +1,13 @@
+url,label
+https://feisu191.com/auth/register,GeeTest Validation
+https://youyun9.com/auth/register,GeeTest Validation
+https://zerocloud.works/auth/register,Normal
+https://xtspeeder.com/auth/register,拒绝注册
+https://22044.xyz/auth/register,拒绝注册
+https://echo99.xyz/auth/register,请求异常(ERROR:302)
+https://v2find.club/auth/register,请求异常(ERROR:404)
+https://socloud.cc/auth/register,限制注册(邀请)
+https://www.paofu.cloud/auth/register,限制注册(邮箱)
+https://www.luckyant.xyz/auth/register,限制注册(邮箱)
+https://surfduck.co/auth/register,限制注册(邮箱)
+https://mxwljsq.top/auth/register,限制注册(邮箱)
